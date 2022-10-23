@@ -1,6 +1,6 @@
 # codingTest
 
 
-## practice coding and study Data Structure, Algorithm
+## practice coding, study Data Structure and Algorithm
 
 
